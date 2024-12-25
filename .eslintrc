@@ -2,7 +2,7 @@
   "extends": "apostrophe",
   "rules": {
     "no-console": [
-      "error",
+      "warning",
       {
         "allow": [
           "warn"
